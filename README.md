@@ -1,6 +1,3 @@
 # best-repo-ever
 
-haha
-haha new branch 1
-asdasdasd
-dsfdsf
+git branch 1
